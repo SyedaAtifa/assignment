@@ -1,0 +1,9 @@
+.span {
+    color: #5d5d5d;
+    font: 14px sans-serif;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    margin: auto;
+    margin-top: 30px;
+}
